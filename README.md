@@ -1,25 +1,37 @@
-## Bem-vindo(a) ao perfil da Lupy
-<p> Futuramente adicionará coisas </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20me%20chamo%20Luiza!;Seja%20muito%20bem-vindo!%20:)" alt="Typing SVG">
+  </a>
+</p>
 
-Faço conteúdos de jogos, me segue nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/@Lupy__" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/bD6PSVw8FS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href ="https://www.twitch.tv/lupy__" target="_blank"><img src="https://img.shields.io/badge/twitch-A020F0?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  </div>
+---
 
-<!--
-**Lupyeah/Lupyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre mim
 
-Here are some ideas to get you started:
+> Estudando **Ciência da Computação** e aprendendo a criar sites!  
+> Também produzo conteúdos sobre **jogos**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Redes sociais
+
+<div align="center"> 
+  <a href="https://www.youtube.com/@Lupy__" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://discord.gg/bD6PSVw8FS" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/lupy__" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-A020F0?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 🚧 Projetos
+
+> Atualmente estou criando um site de informações!
+
+---
+
